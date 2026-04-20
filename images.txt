@@ -1,1 +1,1 @@
-prom/prometheus:latest
+alpine:3.22.4
