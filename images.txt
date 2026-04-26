@@ -1,1 +1,3 @@
-alpine:3.22.4
+prom/prometheus:latest
+prom/node-exporter:latest
+grafana/grafana:latest
