@@ -1,1 +1,1 @@
-quay.io/prometheus/blackbox-exporter:latest
+quay.io/prometheus/blackbox-exporter:v0.28.0
