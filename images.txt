@@ -1,1 +1,1 @@
-nginx:alpine
+quay.io/prometheus/blackbox-exporter:latest
